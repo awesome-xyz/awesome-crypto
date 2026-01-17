@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://awesome-xyz.github.io/assets/img/logo-awesome-crypto.png" width="512" alt="Awesome Crypto">
+    <a href="https://awesome-xyz.github.io">
+        <img src="https://awesome-xyz.github.io/assets/img/logo-awesome-crypto.png" width="512" alt="Awesome Crypto">
+    </a>
 </p>
 
 A **comprehensive, curated list of cryptocurrency and blockchain resources** — spanning **tech, finance, development, security, trading, regulation, and culture**.  
