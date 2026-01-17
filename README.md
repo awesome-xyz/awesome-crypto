@@ -1,5 +1,3 @@
-# Awesome Crypto
-
 <p align="center">
   <img src="https://awesome-xyz.github.io/assets/img/logo-awesome-crypto.png" width="512" alt="Awesome Crypto">
 </p>
@@ -453,11 +451,8 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 
 ## Contributing
 
-Contributions are **very welcome**.
-
-Rules:
+Contributions are **very welcome**. Rules are:
 - Official websites only (project homepages, official docs, official org sites)
-- No referral links, no trackers, no URL shorteners
 - Neutral descriptions (what it is, who it’s for, why it matters)
 
 ---
