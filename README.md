@@ -222,6 +222,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 
 - [CoinMarketCap](https://coinmarketcap.com) – Massive asset directory with prices, market caps, rankings, and exchange data.
 - [CoinGecko](https://www.coingecko.com) – Comprehensive crypto tracking with market metrics, categories, and DeFi/NFT data.
+- [CoinVerum](https://coinverum.com) – Ethereum mainnet DEX analytics with transparent on-chain prices, TVL, volume, trades, active addresses, and a public API.
 - [DefiLlama](https://defillama.com) – DeFi TVL analytics with chains, protocols, yields, and bridge tracking.
 - [TradingView](https://www.tradingview.com) – Industry-standard charting platform with crypto markets, indicators, and alerts.
 - [Glassnode](https://glassnode.com) – On-chain metrics and dashboards for network health and investor behavior.
