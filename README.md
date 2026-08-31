@@ -340,6 +340,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Alchemy Pay](https://alchemypay.org) – Crypto-fiat payment rails bridging Web3 and traditional payment networks.
 - [MoonPay](https://www.moonpay.com) – On-ramp/off-ramp provider for buying crypto via cards and bank transfers.
 - [Transak](https://transak.com) – Fiat on-ramp integration used across many wallets and dapps.
+- [AurasPay](https://auraspay.com/api-docs) – Merchant crypto checkout and payment links with REST API and webhook integration documentation.
 
 ---
 
