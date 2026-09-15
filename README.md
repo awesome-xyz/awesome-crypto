@@ -257,6 +257,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Shrimpy](https://www.shrimpy.io) – Portfolio automation with rebalancing and indexing strategies for long-term investors.
 - [Altrady](https://altrady.com) – Multi-exchange trading platform with automation and advanced order workflows.
 - [MoonBot](https://moon-bot.com) – Automation tools for traders looking to systematize entries and exits.
+- [Crypto Return Calc](https://cryptoreturncalc.com/) – Browser-based calculator for one cryptocurrency buy and sell with percentage fees on both sides.
 
 ---
 
