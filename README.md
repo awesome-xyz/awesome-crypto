@@ -311,6 +311,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [ViaBTC](https://www.viabtc.com) – Mining pool and services across multiple proof-of-work networks.
 - [Slush Pool](https://slushpool.com) – One of the oldest Bitcoin mining pools with a recognized brand.
 - [NiceHash](https://www.nicehash.com) – Hashpower marketplace enabling buying/selling compute for mining.
+- [BTC PoW Lab](https://btcpowlab-pool.com) – Bitcoin Hybrid Solo pool with public work statistics and short duration SHA256 hashrate rentals.
 - [Braiins](https://braiins.com) – Mining software and services, including firmware and pool infrastructure.
 - [Bitcoin Core](https://bitcoincore.org) – Reference implementation for running a Bitcoin full node.
 - [Geth](https://geth.ethereum.org) – Official Go Ethereum client for running Ethereum execution nodes.
