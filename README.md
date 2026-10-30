@@ -80,7 +80,6 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Tangem](https://tangem.com) – Card-style hardware wallet for simple, portable self-custody with tap-to-use experience.
 - [CoolWallet](https://www.coolwallet.io) – Credit-card form factor hardware wallet built for portability and mobile-first usage.
 - [SecuX](https://www.secuxtech.com) – Hardware wallet lineup focused on secure custody and multi-asset support.
-
 - [BitTool Signer](https://bittool.com/signer/) – Offline transaction-signing software for a dedicated iPhone or Android phone, exchanging requests and signatures with an online companion through QR codes.
 
 ### Hot Wallets
@@ -103,7 +102,6 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Keplr](https://www.keplr.app) – Cosmos ecosystem wallet supporting IBC chains with strong staking and governance UX.
 - [Leap Wallet](https://www.leapwallet.io) – Cosmos-first wallet built for DeFi, NFTs, and interchain use cases.
 - [Xaman (XRPL)](https://xaman.app) – XRPL-focused wallet built for payments, token use, and on-ledger features.
-
 - [BitTool Wallet](https://bittool.com/wallet/) – Self-custody wallet for iOS and Android supporting Bitcoin, EVM networks, Solana and TRON, with an optional QR-based offline signer workflow.
 
 ---
@@ -470,4 +468,3 @@ Contributions are **very welcome**. Rules are:
 ---
 
 [![Sponsored by CryptoBookz](https://awesome-xyz.github.io/assets/img/sponsored-by-cryptobookz-1.png)](https://cryptobookz.com/a/awesome-xyz)
-
