@@ -101,6 +101,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Keplr](https://www.keplr.app) – Cosmos ecosystem wallet supporting IBC chains with strong staking and governance UX.
 - [Leap Wallet](https://www.leapwallet.io) – Cosmos-first wallet built for DeFi, NFTs, and interchain use cases.
 - [Xaman (XRPL)](https://xaman.app) – XRPL-focused wallet built for payments, token use, and on-ledger features.
+- [Oath Wallet](https://oathwallet.org/) – Native iPhone and iPad wallet for Bitcoin and other supported networks, with balances, transaction history, send/receive, and watch-only addresses.
 
 ---
 
