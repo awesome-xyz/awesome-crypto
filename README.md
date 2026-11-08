@@ -238,6 +238,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Kaiko](https://www.kaiko.com) – Market data provider specializing in exchange-grade datasets and institutional feeds.
 - [CryptoCompare](https://www.cryptocompare.com) – Market data, indices, and exchange analytics for traders and analysts.
 - [The Graph](https://thegraph.com) – Indexing protocol enabling efficient querying of on-chain data for dapps.
+- [Holder.io](https://holder.io/) – Cryptocurrency market data and exchange profiles with fees, operational-status notices and country-availability research.
 
 ---
 
