@@ -131,6 +131,7 @@ A **comprehensive, curated list of cryptocurrency and blockchain resources** —
 - [Curve](https://curve.fi) – Stablecoin-optimized AMM designed for low-slippage swaps between correlated assets.
 - [Sushi](https://www.sushi.com) – Multi-chain DEX suite with additional DeFi products and broad integrations.
 - [PancakeSwap](https://pancakeswap.finance) – Top AMM on BNB Chain with farming, staking, and multi-chain deployments.
+- [Melega DEX](https://www.melega.finance/swap?chain=bsc) – Swap interface for the Melega decentralized exchange on BNB Smart Chain.
 - [Balancer](https://balancer.fi) – Customizable pool designs enabling complex index-like liquidity strategies.
 - [dYdX](https://dydx.exchange) – Decentralized derivatives exchange focused on perpetual futures and pro tooling.
 - [GMX](https://gmx.io) – Popular perpetuals protocol on Arbitrum/Avalanche with deep DeFi integrations.
